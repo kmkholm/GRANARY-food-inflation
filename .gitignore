@@ -1,0 +1,6 @@
+raw_data/
+data/
+runs/
+__pycache__/
+*.npz
+*.pt

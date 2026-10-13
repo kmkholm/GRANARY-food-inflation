@@ -1,0 +1,13 @@
+numpy
+pandas
+pyarrow
+openpyxl
+scipy
+scikit-learn
+matplotlib
+torch
+pycountry
+pillow
+chronos-forecasting
+timesfm
+statsforecast
